@@ -23,9 +23,8 @@ Whit closures we can create private variables. This values will only be accessib
 ## **HOISTING**
 
 The hoisting elevates the declarations, this happens at the moment our code is compiled, before being interpreted by the browser.
-
-           ***HOISTING***
-* VAR         Declaration 
-* FUNCTION    Complete
-* IMPORT      Complete
-* CLASS       No
+            ***HOISTING***
+* VAR       - Declaration 
+* FUNCTION  - Complete
+* IMPORT    - Complete
+* CLASS     - No
